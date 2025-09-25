@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SecondaryButton } from "../secondary-button/secondary-button";
+import { SecondaryButton } from "../utils/secondary-button/secondary-button";
 
 @Component({
   selector: 'app-item-certificado',
