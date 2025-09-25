@@ -5,3 +5,9 @@
 .small-date {
   color: #64748B;
 }
+
+.custom-card {
+  border: 1px solid #E2E8F0;
+  margin-bottom: 8px;
+  border-radius: 8px;
+}
