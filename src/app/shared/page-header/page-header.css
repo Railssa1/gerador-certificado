@@ -1,0 +1,21 @@
+.content-titles {
+  height: 60px;
+  gap: 4px;
+  margin-bottom: 32px;
+}
+
+.custom-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0;
+  margin-bottom: 4px;
+}
+
+.custom-subtitle {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  color: #647488;
+}
